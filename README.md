@@ -5,4 +5,4 @@ A small bash script that installs Dante SOCKS proxy server as a systemctl servic
 Ubuntu 18.04
 
 # Usage
-./install.sh username password port
+`./install.sh username password port`
